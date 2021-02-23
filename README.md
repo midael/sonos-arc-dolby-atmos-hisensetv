@@ -16,17 +16,17 @@ Settings to pass everything properly from Apple TV to SONOS (sans using HDFury A
 
 ## TV Settings (2019 Hisense)
 - Settings -> Sound -> Speakers -> 
-   --> Audio output: ARC
-   --> Digital Audio Out: AUTO (!!!!!)
+   - Audio output: ARC
+   - Digital Audio Out: AUTO (!!!!!)
    
 - Settings -> System -> HDMI & CEC Functions
-   --> HDMI 2.0 Format: Enhanced format
-   --> CEC control: ON
-   --> Devide auto power off: ON
-   --> Device auto power on: ON
-   --> TV auto powe on: ON
-   --> CEC device list: HDMI1-Sonos ARC -> Start
+   - HDMI 2.0 Format: Enhanced format
+   - CEC control: ON
+   - Devide auto power off: ON
+   - Device auto power on: ON
+   - TV auto powe on: ON
+   - CEC device list: HDMI1-Sonos ARC -> Start
    
  ## Sonos App
-  -Settings -> System -> About my System: Audio in (check here)
+  - Settings -> System -> About my System: Audio in (check here)
   

@@ -1,5 +1,6 @@
 # sonos-arc-dolby-atmos-hisensetv
-Settings to pass everything properly from Apple TV to SONOS (sans using HDFury Arcana)
+
+TV & Apple TV settings for getting Atmos on Sonos ARC using DD 5.1+ with Hisense 2019 TV /wo eARC. And other settings corrections too. 
 
 ## AppleTV 4k settings
 

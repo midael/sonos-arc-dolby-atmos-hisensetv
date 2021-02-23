@@ -1,6 +1,6 @@
 # sonos-arc-dolby-atmos-hisensetv
 
-TV & Apple TV settings for getting Atmos on Sonos ARC using DD 5.1+ with Hisense 2019 TV /wo eARC. And other settings corrections too. 
+Hisense 2019 TV (no eARC) & AppleTV 4k settings for getting Atmos to Sonos ARC over DD 5.1+. And other settings corrections too. 
 
 ## AppleTV 4k settings
 
